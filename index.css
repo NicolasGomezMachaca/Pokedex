@@ -1,0 +1,16 @@
+.pantalla{
+    width: 300px;
+    height: 200px;
+    background-color: #9cdada;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 2px solid black;
+}
+
+.pantalla img{
+    max-width: 100%;
+    max-height: 100%;
+}
