@@ -1,3 +1,5 @@
 Hola muchachos escribo esto para que tengan en cuenta que necesitan poner estos tres archivos en la carpeta de htdocs de xampp
 por las dudas dejo esto 
 https://www.youtube.com/watch?v=MwG2ZlR63Zc
+
+la base de datos "pokedex_proyecto_bdd.sql" lo tienen que poner en phpmyadmin (no eliminen nada de la BD por las dudas)
